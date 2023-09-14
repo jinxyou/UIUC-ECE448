@@ -1,0 +1,85 @@
+Most of the resources used in this projects are not made by me.
+All authors/publishers of the resources have been credited for:
+They maintain their respective original licenses.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+All images from pixabay.com maintain pixabay license.
+It is a simple and permissive. A part of it is given below.
+_________________________________________
+Under the Pixabay License you are granted an irrevocable, worldwide,
+non-exclusive and royalty free right to use, download, copy, modify
+or adapt the Content for commercial or non-commercial purposes.
+Attribution of the photographer, videographer, musician or Pixabay is
+not required but is always appreciated.
+_________________________________________
+For more,
+See: https://pixabay.com/service/license/
+
+CREDITS FOR IMAGES:
+==================
+
+Background.jpg: Image by FelixMittermeier from pixabay.com (with slight modification from me)
+Background2.jpg: Image by Pexels from pixabay.com
+Background3.jpg: Image by Jan Vašek from pixabay.com
+Background4.jpg: Image by pixel2013 from pixabay.com
+
+ALL THE BACKGROUND IMAGES HAVE BEEN COMBINED IN A SINGLE SPRITE IMAGE.
+
+refresh.png: Image by OpenIcons from pixabay.com
+delete.jpg: Image by Clker-Free-Vector-Images from pixabay.com
+back.png: Image by Clker-Free-Vector-Images from pixabay.com
+icon.gif: Image by OpenClipart-Vectors from pixabay.com
+
+select.jpg: This is made by me, but I have used the images of some chess pieces.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Piecesprites: Image from Wikipedia.com
+This file is licensed under the:
+    Creative Commons Attribution-Share Alike 3.0 Unported license.
+Source: http://commons.wikimedia.org/wiki/Template:SVG_chess_pieces
+Author: jurgenwesterhof (adapted from work of Cburnett)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Asimov.otf:
+    This is a Font file licenced under Apache License 2.0.
+
+This is the Asimov Font by 'KineticPlasma Fonts' from fontspace.com.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+I got sounds from freesound.org, converted them to .ogg format
+to use in the app. Some of the sounds have been modified by me.
+
+move.ogg: 
+https://freesound.org/people/mh2o/sounds/351518/
+Author: mh2o
+This work is licensed under the Creative Commons 0 License. (Public domain)
+
+drag.ogg: 
+https://freesound.org/people/ChaosEntertainment/sounds/396705/
+Author: ChaosEntertainment
+This work is licensed under the Creative Commons 0 License. (Public domain)
+
+start.ogg:
+https://freesound.org/people/XfiXy8/sounds/467282/
+Author: XfiXy8
+This work is licensed under the Creative Commons 0 License. (Public domain)
+
+click.ogg:
+This work is licensed under the Creative Commons Attribution License.
+Name: "Splatez07’s YouTube sound pack >> Click.m4a"
+Author: Splatez07
+Link: https://freesound.org/people/Splatez07/sounds/413690/
+
+I have slightly modified the original click sound
+(By cutting out the last part of the click sound).
+
+
+background.ogg: 
+This work is licensed under the Creative Commons Attribution Noncommercial License.
+Name: "My love (piano loop)" 
+Author: Shady Dave
+Link: https://freesound.org/people/ShadyDave/sounds/325611/
+
+I have not modified this track in my app.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

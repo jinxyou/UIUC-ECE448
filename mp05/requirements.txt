@@ -1,0 +1,2 @@
+pygame
+gradescope-utils>=0.2.7

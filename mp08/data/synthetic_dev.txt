@@ -1,0 +1,3 @@
+two=A three=B one=C sync=X
+three=B one=C sync=X two=A
+one=C sync=X two=A three=B

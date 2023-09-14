@@ -1,0 +1,9 @@
+one=A two=B three=C sync=X two=A three=B one=C sync=X three=A one=B two=C sync=X 
+sync=X  one=A two=B three=C sync=X two=A three=B one=C sync=X three=A one=B two=C 
+two=C  sync=X  one=A two=B three=C sync=X two=A three=B one=C sync=X three=A one=B 
+one=B two=C  sync=X  one=A two=B three=C sync=X two=A three=B one=C sync=X three=A
+one=A two=B three=C sync=X
+sync=X one=A two=B three=C 
+three=C sync=X one=A two=B 
+two=B three=C sync=X one=A
+monday=Z tuesday=Z
